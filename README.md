@@ -1,4 +1,4 @@
-![NOAH](./banner.svg)
+![NOAH](https://raw.githubusercontent.com/ademerci/ademerci/banner-output/banner.svg)
 
 <p align="center">Ich baue kleine Tools für Windows, Pixel-Games und was mir sonst so einfällt.<br><a href="https://ademerci.github.io">ademerci.github.io</a></p>
 
